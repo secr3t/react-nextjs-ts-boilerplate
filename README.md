@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Start React & Nextjs & TS with this boilerplate on Mac
+
+## clone
+```bash
+git clone https://github.com/secr3t/react-nextjs-ts-boilerplate.git <PROJECT_DIR>
+```
+
+## first set
+move to project dir and run this below.
+```bash
+rm -rf .git && sed -i '' "s/PROJECT_NAME/$(basename $(pwd))/" package.json
+```
+
 ## Requirements
 
 ### install nodejs
