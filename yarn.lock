@@ -868,6 +868,38 @@ __metadata:
   languageName: node
   linkType: hard
 
+"PROJECT_NAME@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "PROJECT_NAME@workspace:."
+  dependencies:
+    "@emotion/cache": ^11.10.5
+    "@emotion/css": ^11.10.5
+    "@emotion/react": ^11.10.5
+    "@emotion/server": ^11.10.0
+    "@emotion/styled": ^11.10.5
+    "@mui/icons-material": ^5.10.9
+    "@mui/lab": ^5.0.0-alpha.106
+    "@mui/material": ^5.10.12
+    "@types/node": 18.11.9
+    "@types/react": 18.0.24
+    "@types/react-dom": 18.0.8
+    "@typescript-eslint/eslint-plugin": ^5.0.0
+    classnames: ^2.3.2
+    eslint: ^8.0.1
+    eslint-config-standard-with-typescript: latest
+    eslint-plugin-import: ^2.25.2
+    eslint-plugin-n: ^15.0.0
+    eslint-plugin-prettier: ^4.2.1
+    eslint-plugin-promise: ^6.0.0
+    eslint-plugin-react: latest
+    next: 13.0.1
+    prettier: ^2.7.1
+    react: 18.2.0
+    react-dom: 18.2.0
+    typescript: "*"
+  languageName: unknown
+  linkType: soft
+
 "acorn-jsx@npm:^5.3.2":
   version: 5.3.2
   resolution: "acorn-jsx@npm:5.3.2"
@@ -2353,38 +2385,6 @@ __metadata:
   checksum: 99cf8934714da7f9ce03e1f0a99621a41443217d80849c62e22b31b6ac356b9acd22f41e555fd7a759f1c7c9d3273e7abff2fb82dff8285f00a6a1022727e4ab
   languageName: node
   linkType: hard
-
-"name@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "name@workspace:."
-  dependencies:
-    "@emotion/cache": ^11.10.5
-    "@emotion/css": ^11.10.5
-    "@emotion/react": ^11.10.5
-    "@emotion/server": ^11.10.0
-    "@emotion/styled": ^11.10.5
-    "@mui/icons-material": ^5.10.9
-    "@mui/lab": ^5.0.0-alpha.106
-    "@mui/material": ^5.10.12
-    "@types/node": 18.11.9
-    "@types/react": 18.0.24
-    "@types/react-dom": 18.0.8
-    "@typescript-eslint/eslint-plugin": ^5.0.0
-    classnames: ^2.3.2
-    eslint: ^8.0.1
-    eslint-config-standard-with-typescript: latest
-    eslint-plugin-import: ^2.25.2
-    eslint-plugin-n: ^15.0.0
-    eslint-plugin-prettier: ^4.2.1
-    eslint-plugin-promise: ^6.0.0
-    eslint-plugin-react: latest
-    next: 13.0.1
-    prettier: ^2.7.1
-    react: 18.2.0
-    react-dom: 18.2.0
-    typescript: "*"
-  languageName: unknown
-  linkType: soft
 
 "nanoid@npm:^3.3.4":
   version: 3.3.4

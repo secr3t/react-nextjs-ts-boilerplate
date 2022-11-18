@@ -18,5 +18,7 @@ module.exports = {
     'comma-dangle': 0,
     '@typescript-eslint/member-delimiter-style': 0,
     '@typescript-eslint/indent': 0,
+    '@typescript-eslint/space-before-function-paren': 0,
+    '@typescript-eslint/restrict-template-expressions': 0,
   },
 };
