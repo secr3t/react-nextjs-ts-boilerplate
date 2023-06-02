@@ -1,3 +1,3 @@
 export interface Data {
-  msg: string
+  msg: string;
 }
