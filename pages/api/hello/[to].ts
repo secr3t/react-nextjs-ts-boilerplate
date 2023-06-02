@@ -1,5 +1,5 @@
-import { NextApiRequest, NextApiResponse } from 'next';
-import { Data } from '../../../interfaces';
+import { type NextApiRequest, type NextApiResponse } from 'next';
+import { type Data } from '../../../interfaces';
 
 interface ResponseError {
   message: string;

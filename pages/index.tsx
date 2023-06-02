@@ -19,8 +19,7 @@ const Home: NextPage = () => {
         display: 'flex',
         justifyContent: 'center',
       }}
-    >
-    </main>
+    ></main>
   );
 };
 
